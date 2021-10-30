@@ -9,10 +9,10 @@ This project is based on the number game in the British television show [Countdo
   <li> Whoever is closest wins</li>
 </ul>
 
-### Conjecture
+# Conjecture
 It is not always possible to hit the target - provable by counterexample. However, I conject that there exists some relaxation of the rules under which it is always possible to combine a set of randomly chosen integers using some set of arithmetic operations to achieve a desired outcome. 
 
-#### Possible Relaxations
+## Possible Relaxations
 <ol>
   <li> Let the total number of playable numbers (**p**) be greater than 6 - *Corollary - at what number **p** is it always possible to hit the target* 
     <ul> 
@@ -25,7 +25,7 @@ It is not always possible to hit the target - provable by counterexample. Howeve
   <li> Relax the randomness. For any given **t** is it always possible to choose **p** numbers such that they combine using some set of arithmetic operations to equal **t** </li>
 </ol>
 
-
+## Places to Research
 So far I've gone down a few rabbitholes looking for answers. They are listed here in no particular order and are here for my reference later. 
 <ul>
   <li> Compiler parser trees for the actual program</li>
