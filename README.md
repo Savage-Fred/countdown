@@ -4,7 +4,7 @@ This project is based on the number game in the British television show [Countdo
 ## How the Game Works 
 * Player chooses **b** "big numbers" such that **b** is between 1 and 4
 * **b** numbers are drawn from {25,50,75,100} with no duplicates.
-* The difference of 6 and **b** = **l** where **l** is the number of "little numbers" drawn from [1...10] with no duplicates allowed.
+* The difference of 6 and **b** = **i** where **i** is the number of "little numbers" drawn from [1...10] with no duplicates allowed.
 * A random target **t** between 100 and 999 is choosen.
 * The players use any of the 4 basic arithmetic operators (+,-,\*,/) in any order using the choosen numbers at most once to try to get as close to the target as possible.
 * Whoever is closest wins
