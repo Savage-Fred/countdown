@@ -1,5 +1,5 @@
 # Countdown
-This project is based on the number game in the British television show [Countdown](https://en.wikipedia.org/wiki/Countdown_(game_show). The game can be summarized as follows: 
+This project is based on the number game in the British television show [Countdown](https://en.wikipedia.org/wiki/Countdown_(game_show)). The game can be summarized as follows: 
 <ul>
   <li> Player chooses **b** "big numbers" such that **b** is between 1 and 4</li>
   <li> **b** numbers are drawn from {25,50,75,100} with no duplicates. </li>
