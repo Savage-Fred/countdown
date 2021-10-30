@@ -10,7 +10,7 @@ This project is based on the number game in the British television show [Countdo
 </ul>
 
 # Conjecture
-It is not always possible to hit the target - provable by counterexample. However, I conject that there exists some relaxation of the rules under which it is always possible to combine a set of randomly chosen integers using some set of arithmetic operations to achieve a desired outcome. 
+It is not always possible to hit the target - provable by counterexample. However, I conject that there exists some relaxation of the rules under which it is **always possible** to combine a set of randomly chosen integers using some set of arithmetic operations to yield a pre-chosen result. 
 
 ## Possible Relaxations
 <ol>
