@@ -14,7 +14,7 @@ It is not always possible to hit the target - provable by counterexample. Howeve
 
 ## Possible Relaxations
 1. Let the total number of playable numbers (**p**) be greater than 6 - *Corollary - at what number **p** is it always possible to hit the target*
-  * There are obvious trivial solutions on an upper bound for **p** 
+   * There are obvious trivial solutions on an upper bound for **p** 
 2. Restrictions on **t** in combination with other relaxations
 3. Include ALL binary operations.
 4. Include unary operations.
